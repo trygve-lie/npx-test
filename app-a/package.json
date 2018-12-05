@@ -1,0 +1,17 @@
+{
+  "name": "@trygve-lie/app-a",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "app-a": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
