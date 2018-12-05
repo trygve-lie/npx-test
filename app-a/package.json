@@ -2,9 +2,7 @@
   "name": "@trygve-lie/app-a",
   "version": "1.0.0",
   "description": "",
-  "bin": {
-    "app-a": "index.js"
-  },
+  "bin": "index.js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
